@@ -10,4 +10,4 @@ code of Latex
 
 ## TexStudio
 * [Textstudio](https://www.texstudio.org/)
-** Mikex Paketmanger so konfigurieren, dass die Pakete möglichst von der Hochschule bezogen werden**
+**Mikex Paketmanger so konfigurieren, dass die Pakete möglichst von der Hochschule bezogen werden**
