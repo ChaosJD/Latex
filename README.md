@@ -11,3 +11,9 @@ code of Latex
 ## TexStudio
 * [Textstudio](https://www.texstudio.org/)
 **Mikex Paketmanger so konfigurieren, dass die Pakete möglichst von der Hochschule bezogen werden**
+
+## tut
+* [Latex-tutorial](https://latex-tutorial.com/)
+
+## bib
+* overleaf with google
